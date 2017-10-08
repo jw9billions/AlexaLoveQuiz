@@ -9,10 +9,10 @@ module.exports = {
     QUESTIONS_EN_US: [
         {
             'What is the cost of raising a child for a middle-income family in USA?': [
-                '233,610',
-                '133,610',
-                '263,000',
-                '300,000',
+                '$233,610',
+                '$133,610',
+                '$263,000',
+                '$300,000',
             ],
         },
         {
@@ -32,11 +32,43 @@ module.exports = {
             ],
         },
         {
+            'What the average grad makes right out of college in the USA?': [
+                'About $50,000 USD',
+                'About $60,000 USD',
+                'About $40,000 USD',
+                'About $70,000 USD',
+            ],
+        },
+        {
             'What is the average lifetime earnings of an American?': [
                 'About $1,400,000 USD',
                 'About $1,900,000 USD',
                 'About $2,400,000 USD',
                 'About $2,900,000 USD',
+            ],
+        },
+        {
+            'What is the median household income in America?': [
+                'About $60,000 USD',
+                'About $50,000 USD',
+                'About $70,000 USD',
+                'About $40,000 USD',
+            ],
+        },
+        {
+            'How much does an American spend average each year?': [
+                'About $60,000 USD',
+                'About $50,000 USD',
+                'About $70,000 USD',
+                'About $40,000 USD',
+            ],
+        },
+        {
+            'The average age of first time marriage in the United States is': [
+                '27 for women, 29 for men',
+                '23 for women, 26 for men',
+                '22 for women, 22 for men',
+                '33 for women, 35 for men',
             ],
         },
         {
@@ -48,6 +80,22 @@ module.exports = {
             ],
         },
         {
+            'Average Americans morgage payment including principle and interest is?': [
+                'About $1500 per month',
+                'About $2000 per month',
+                'About $1000 per month',
+                'About $2500 per month',
+            ],
+        },
+        {
+            "What is Americans' average social security payment?": [
+                'About $1,400/month',
+                'About $1,300/month',
+                'About $1,200/month',
+                'About $1,500/month',
+            ],
+        },
+        {
             'What is the biggest expense in retirement in US?': [
                 'Housing',
                 'Taxes',
@@ -56,7 +104,7 @@ module.exports = {
             ],
         },
         {
-            'What is average human lifespan usa?': [
+            'What is average human lifespan in the USA?': [
                 '78.74',
                 '98.74',
                 '88.74',
